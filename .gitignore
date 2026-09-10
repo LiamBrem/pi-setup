@@ -1,0 +1,6 @@
+# Credentials and machine-local state
+auth.json
+sessions/
+trust.json
+npm/
+git/
