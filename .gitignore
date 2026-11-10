@@ -4,3 +4,16 @@ sessions/
 trust.json
 npm/
 git/
+
+# Generated state and downloaded tools
+models-store.json
+bin/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and OS files
+node_modules/
+.DS_Store
