@@ -1,6 +1,16 @@
 {
   "lastChangelogVersion": "1.5.2",
-  "theme": "dark",
+  "theme": "rose-pine",
   "defaultProvider": "openai-codex",
-  "defaultModel": "gpt-5.5"
+  "defaultModel": "gpt-5.5",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-subagents",
+    "npm:pi-vimmode",
+    "npm:pi-themes-rose-pine"
+  ],
+  "extensionChangelogVersions": {
+    "{\"source\":\"npm:pi-web-access\",\"scope\":\"user\"}": "0.47.0",
+    "{\"source\":\"npm:pi-subagents\",\"scope\":\"user\"}": "0.87.0"
+  }
 }
